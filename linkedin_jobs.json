@@ -1,5 +1,305 @@
 [
     {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer I",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Applied Sciences IC2",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-07-30"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-04"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Associate Researcher",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-05"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Designer II",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Data Scientist",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-02"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Designer 2",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-08-02"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Strategic Sales Business Development Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Digital Specialist \u2013 Support Solution (India)",
+        "location": "Gurgaon, Haryana, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Data Center Technician",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-04"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Director Strategic Business Development",
+        "location": "Mumbai Metropolitan Region",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Strategic Business Development Manager - Partnership",
+        "location": "Mumbai Metropolitan Region",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer 2",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer 2 (Frontend)",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-05"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Content Designer II",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-08-04"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Maharashtra, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Senior Product Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-04"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer 2",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-08-05"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer 2",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Data Scientist",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Operations Program Manager",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-05"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Product Designer II",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Madhya Pradesh, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-03"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Haryana, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Technical Support Engineering",
+        "location": "Delhi, India",
+        "date_posted": "2024-07-31"
+    },
+    {
+        "company_name": "Microsoft",
+        "title": "Software Engineer 2",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-05"
+    },
+    {
         "company_name": "Google",
         "title": "Digital Marketing Strategist",
         "location": "Gurugram, Haryana, India",
@@ -253,6 +553,12 @@
     },
     {
         "company_name": "Google",
+        "title": "Software Engineer II, Front End, Payments",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Google",
         "title": "Global Process Manager, Revenue Operations",
         "location": "Bengaluru, Karnataka, India",
         "date_posted": "2024-08-03"
@@ -262,12 +568,6 @@
         "title": "Strategic Partner Manager, Large Partnerships Solutions",
         "location": "Gurgaon, Haryana, India",
         "date_posted": "2024-08-02"
-    },
-    {
-        "company_name": "Google",
-        "title": "Software Engineer II, Front End, Payments",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2024-08-01"
     },
     {
         "company_name": "Google",
@@ -379,12 +679,6 @@
     },
     {
         "company_name": "Amazon",
-        "title": "Process Assistant",
-        "location": "Greater Kolkata Area",
-        "date_posted": "2024-07-31"
-    },
-    {
-        "company_name": "Amazon",
         "title": "Business Analyst",
         "location": "Bengaluru, Karnataka, India",
         "date_posted": "2024-08-04"
@@ -394,6 +688,12 @@
         "title": "Process Assistant",
         "location": "Gurgaon, Haryana, India",
         "date_posted": "2024-08-02"
+    },
+    {
+        "company_name": "Amazon",
+        "title": "Process Assistant",
+        "location": "Greater Kolkata Area",
+        "date_posted": "2024-07-31"
     },
     {
         "company_name": "Amazon",
@@ -482,12 +782,6 @@
     {
         "company_name": "Amazon",
         "title": "Administrator, Interventions, Interventions",
-        "location": "Greater Kolkata Area",
-        "date_posted": "2024-08-02"
-    },
-    {
-        "company_name": "Amazon",
-        "title": "Administrator, Interventions, Interventions",
         "location": "New Chandigarh, India",
         "date_posted": "2024-08-02"
     },
@@ -523,6 +817,12 @@
     },
     {
         "company_name": "Amazon",
+        "title": "Operations Manager, AMXL",
+        "location": "Greater Kolkata Area",
+        "date_posted": "2024-08-01"
+    },
+    {
+        "company_name": "Amazon",
         "title": "Process Assistant",
         "location": "Greater Kolkata Area",
         "date_posted": "2024-08-01"
@@ -541,9 +841,9 @@
     },
     {
         "company_name": "Amazon",
-        "title": "Operations Manager, AMXL",
+        "title": "Administrator, Interventions, Interventions",
         "location": "Greater Kolkata Area",
-        "date_posted": "2024-08-01"
+        "date_posted": "2024-08-02"
     },
     {
         "company_name": "Amazon",

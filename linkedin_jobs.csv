@@ -1,4 +1,54 @@
 company_name,title,location,date_posted
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Bengaluru, Karnataka, India",2024-08-01
+Microsoft,Software Engineer I,"Bengaluru, Karnataka, India",2024-08-01
+Microsoft,Applied Sciences IC2,"Bengaluru, Karnataka, India",2024-07-30
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Bengaluru, Karnataka, India",2024-08-04
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Noida, Uttar Pradesh, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Associate Researcher,"Bengaluru, Karnataka, India",2024-08-05
+Microsoft,Designer II,"Bengaluru, Karnataka, India",2024-07-31
+Microsoft,Data Scientist,"Bengaluru, Karnataka, India",2024-08-03
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Bengaluru, Karnataka, India",2024-08-02
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-08-01
+Microsoft,Designer 2,"Hyderabad, Telangana, India",2024-08-02
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Strategic Sales Business Development Manager,"Bengaluru, Karnataka, India",2024-08-01
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Digital Specialist – Support Solution (India),"Gurgaon, Haryana, India",2024-08-01
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Technical Support Engineering,"Bengaluru, Karnataka, India",2024-08-03
+Microsoft,Data Center Technician,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Technical Support Engineering,"Bengaluru, Karnataka, India",2024-08-04
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Director Strategic Business Development,Mumbai Metropolitan Region,2024-08-01
+Microsoft,Strategic Business Development Manager - Partnership,Mumbai Metropolitan Region,2024-08-01
+Microsoft,Software Engineer 2,"Bengaluru, Karnataka, India",2024-08-03
+Microsoft,Software Engineer 2 (Frontend),"Bengaluru, Karnataka, India",2024-08-05
+Microsoft,Content Designer II,"Hyderabad, Telangana, India",2024-08-04
+Microsoft,Technical Support Engineering,"Maharashtra, India",2024-07-31
+Microsoft,Senior Product Manager,"Bengaluru, Karnataka, India",2024-08-04
+Microsoft,Software Engineer 2,"Hyderabad, Telangana, India",2024-08-05
+Microsoft,Software Engineer,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Software Engineer 2,"Noida, Uttar Pradesh, India",2024-08-03
+Microsoft,Technical Support Engineering,"Bengaluru, Karnataka, India",2024-08-01
+Microsoft,Data Scientist,"Hyderabad, Telangana, India",2024-07-31
+Microsoft,Operations Program Manager,"Bengaluru, Karnataka, India",2024-08-05
+Microsoft,Product Designer II,"Bengaluru, Karnataka, India",2024-08-03
+Microsoft,Technical Support Engineering,"Madhya Pradesh, India",2024-07-31
+Microsoft,Technical Support Engineering,"Bengaluru, Karnataka, India",2024-08-03
+Microsoft,Technical Support Engineering,"Haryana, India",2024-07-31
+Microsoft,Technical Support Engineering,"Delhi, India",2024-07-31
+Microsoft,Software Engineer 2,"Bengaluru, Karnataka, India",2024-08-05
 Google,Digital Marketing Strategist,"Gurugram, Haryana, India",2024-08-03
 Google,"Software Engineer, University Graduate, 2025","Bengaluru, Karnataka, India",2024-07-31
 Google,"Software Engineer, University Graduate, 2025",Mumbai Metropolitan Region,2024-07-31
@@ -41,9 +91,9 @@ Google,"Vendor Operations Manager, Trust and Safety","Bengaluru, Karnataka, Indi
 Google,"Vendor Operations Manager, Trust and Safety","Bengaluru, Karnataka, India",2024-08-02
 Google,Engineering Analyst,"Hyderabad, Telangana, India",2024-08-03
 Google,Global Threat Analyst,"Bengaluru, Karnataka, India",2024-08-01
+Google,"Software Engineer II, Front End, Payments","Bengaluru, Karnataka, India",2024-08-01
 Google,"Global Process Manager, Revenue Operations","Bengaluru, Karnataka, India",2024-08-03
 Google,"Strategic Partner Manager, Large Partnerships Solutions","Gurgaon, Haryana, India",2024-08-02
-Google,"Software Engineer II, Front End, Payments","Bengaluru, Karnataka, India",2024-08-01
 Google,"Vendor Operations Manager, Trust and Safety","Hyderabad, Telangana, India",2024-08-03
 Google,Senior Business Intelligence Analyst,"Bengaluru, Karnataka, India",2024-08-03
 Google,"Software Engineer II, Front End, Payments","Hyderabad, Telangana, India",2024-08-01
@@ -62,9 +112,9 @@ Amazon,Business Analyst,"Hubli, Karnataka, India",2024-07-31
 Amazon,Research Analyst,"Gurugram, Haryana, India",2024-08-02
 Amazon,Business Analyst,"Bengaluru, Karnataka, India",2024-08-01
 Amazon,Process Assistant,"Gurugram, Haryana, India",2024-08-02
-Amazon,Process Assistant,Greater Kolkata Area,2024-07-31
 Amazon,Business Analyst,"Bengaluru, Karnataka, India",2024-08-04
 Amazon,Process Assistant,"Gurgaon, Haryana, India",2024-08-02
+Amazon,Process Assistant,Greater Kolkata Area,2024-07-31
 Amazon,Operations Analyst,"Bengaluru, Karnataka, India",2024-07-30
 Amazon,Operations Analyst,"Bengaluru, Karnataka, India",2024-07-30
 Amazon,Business Development Associate,"Bengaluru, Karnataka, India",2024-08-03
@@ -79,17 +129,17 @@ Amazon,Business Analyst I,"Hyderabad, Telangana, India",2024-08-03
 Amazon,L&D Trainer,"Jagadhri, Haryana, India",2024-08-03
 Amazon,"Sr Associate, Amazon Fresh","Bengaluru, Karnataka, India",2024-07-31
 Amazon,"Operations Associate, Compliance India Team","Hyderabad, Telangana, India",2024-08-03
-Amazon,"Administrator, Interventions, Interventions",Greater Kolkata Area,2024-08-02
 Amazon,"Administrator, Interventions, Interventions","New Chandigarh, India",2024-08-02
 Amazon,HR Ops Admin,"Hyderabad, Telangana, India",2024-08-04
 Amazon,Operations Manager,"Hyderabad, Telangana, India",2024-07-31
 Amazon,Operations Manager,"Hyderabad, Telangana, India",2024-07-31
 Amazon,Business Analyst,"Bengaluru, Karnataka, India",2024-08-04
 Amazon,"Learning Specialist, Communication","Noida, Uttar Pradesh, India",2024-08-04
+Amazon,"Operations Manager, AMXL",Greater Kolkata Area,2024-08-01
 Amazon,Process Assistant,Greater Kolkata Area,2024-08-01
 Amazon,Process Assistant,Greater Kolkata Area,2024-08-01
 Amazon,"Administrator, Interventions, Interventions","Uttar Pradesh, India",2024-08-02
-Amazon,"Operations Manager, AMXL",Greater Kolkata Area,2024-08-01
+Amazon,"Administrator, Interventions, Interventions",Greater Kolkata Area,2024-08-02
 Amazon,"Administrator, Interventions, Interventions",Greater Jaipur Area,2024-08-02
 Amazon,Business Analyst,"Hyderabad, Telangana, India",2024-08-04
 Amazon,Process Assistant,Greater Kolkata Area,2024-08-01

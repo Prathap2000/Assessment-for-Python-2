@@ -14,11 +14,6 @@ comp = [
     'https://www.linkedin.com/jobs/search?keywords=&location=India&geoId=102713980&f_C=1586&position=1&pageNum=0'  # Amazon
 ]
 
-# Custom condition for checking attribute
-def attribute_to_be(driver, locator, attribute, value):
-    element = driver.find_element(*locator)
-    return element.get_attribute(attribute) == value
-
 # LinkedIn Scraping using Selenium
 def scrape_linkedin_jobs():
     all_job_listings = []
@@ -34,16 +29,13 @@ def scrape_linkedin_jobs():
         
         # Apply "Past week" filter
         try:
-            # Click the filter button to open dropdown
             any_time_button = driver.find_element(By.XPATH, "//button[contains(@aria-label, 'Date posted filter. Any time filter is currently applied')]")
             any_time_button.click()
             time.sleep(2)  # Wait for dropdown to expand
             
-            # Select "Past week" option
             past_week_option = driver.find_element(By.XPATH, "//label[contains(text(), 'Past week')]")
             past_week_option.click()
             
-            # Click the "Done" button to apply the filter
             done_button = driver.find_element(By.XPATH, "//button[@class='filter__submit-button' and @data-tracking-control-name='public_jobs_f_TPR']")
             done_button.click()
             time.sleep(5)  # Wait for page to update with the filter applied
@@ -53,7 +45,6 @@ def scrape_linkedin_jobs():
         
         # Scroll down to load more jobs
         while len(job_listings) < 50:
-            # Locate job title elements
             job_elements = driver.find_elements(By.CSS_SELECTOR, 'div.base-card')
             for job in job_elements:
                 if len(job_listings) >= 50:
@@ -77,7 +68,6 @@ def scrape_linkedin_jobs():
                 except Exception as e:
                     continue
             
-            # Scroll down
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(2)  # Wait for new jobs to load
 
@@ -104,7 +94,6 @@ def save_to_json(data, filename):
 
 # Main execution
 if __name__ == "__main__":
-    # Scrape LinkedIn jobs
     linkedin_jobs = scrape_linkedin_jobs()
     save_to_csv(linkedin_jobs, 'linkedin_jobs.csv')
     save_to_json(linkedin_jobs, 'linkedin_jobs.json')
